@@ -29,7 +29,7 @@
             $("#main_slider").revolution({
                 sliderType:"standard",
                 sliderLayout:"auto",
-                delay:60000000,
+                delay:7000,
                 disableProgressBar:"on",
                 navigation: {
                     onHoverStop: 'off',

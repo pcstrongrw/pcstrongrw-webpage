@@ -1189,6 +1189,14 @@ iframe {
   padding-top: 7px;
 }
 
+.address_inner .media .media-body h6 {
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: #444444;
+  padding-top: 7px;
+}
+
 /* End Address area css
 ============================================================================================ */
 /* Subscribe area css
